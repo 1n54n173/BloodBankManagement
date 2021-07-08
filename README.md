@@ -1,4 +1,4 @@
-# Blood-Bank-Management-System 
+# BloodBankManagement 
 This website acts like an interface between hospitals/clinics and donors/receivers.
 
 ## Basic functionalities:
